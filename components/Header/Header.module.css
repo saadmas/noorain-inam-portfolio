@@ -1,5 +1,19 @@
 .header {
   font-family: 'Allura', cursive;
-  font-size: 80px;
+  font-size: 50px;
   font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+.buttonRow {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0px;
+  gap: 20px;
+}
+
+.icon:hover {
+  cursor: pointer;
+  opacity: 0.6;
 }

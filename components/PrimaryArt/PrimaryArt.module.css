@@ -1,4 +1,4 @@
 .primaryArtImage {
-  object-fit: contain;
-  border-radius: 20px;
+  border-radius: 5px;
+  object-fit: cover;
 }

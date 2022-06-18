@@ -2,7 +2,7 @@ import Image from 'next/image';
 import styles from './PrimaryArt.module.css';
 
 const PrimaryArt = () => {
-  const size = 800;
+  const size = 400;
 
   return (
     <div>
