@@ -7,7 +7,7 @@ const PrimaryArt = () => {
   return (
     <div className={styles.imageContainer}>
       <Image
-        src="/images/woman-lying-art.jpg"
+        src="/images/woman-lying-art.JPG"
         height={size}
         width={size}
         alt="Artwork of woman lying down"
