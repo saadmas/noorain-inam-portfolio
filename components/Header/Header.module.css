@@ -1,5 +1,5 @@
 .header {
-  font-family: 'Allura', cursive;
+  font-family: 'Raleway', sans-serif;
   font-size: 50px;
   font-weight: 400;
   margin: 0;
@@ -16,4 +16,15 @@
 .icon:hover {
   cursor: pointer;
   opacity: 0.6;
+}
+
+@media only screen and (max-device-width: 480px) {
+  .header {
+    font-size: 35px;
+  }
+
+  .icon {
+    height: 25px;
+    width: 25px;
+  }
 }

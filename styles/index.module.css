@@ -6,3 +6,10 @@
   margin-top: 20px;
   gap: 100px;
 }
+
+@media only screen and (max-device-width: 480px) {
+  .main {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
